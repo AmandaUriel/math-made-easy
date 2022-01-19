@@ -55,25 +55,6 @@ body {
 
     border: 1px solid gray;
     background-color: white;
-
-    /* MAKE ARROW INVISIBLE */
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-}
-/* MAKE AN ARROW FOR DROP DOWN MENU */
-.pop-up::before {
-    content: "";
-    position: absolute;
-    background-color: transparent;
-    width: 10px;
-    height: 10px;
-    border: 1px solid gray;
-    border-top: none;
-    border-left: none;
-    transform: rotate(45deg);
-    top: 55px;
-    right: 170px;
 }
 /* WHEN FOCUS OR HOVER ON OPTIONS, MAKE A BLUE SHADOW */
 #math:focus, #math:hover,
