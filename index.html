@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <!-- METAS -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Fernanda Uriel">
+  <meta name="description" content="Choose between Bhaskara and Pythagorean Theorem operations to get all the calculations if you are getting problems with them">
+
+  <!-- TAB TITLE -->
+  <title>Math Made Easy</title>
+
+  <!-- CALL CSS -->
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- CALL TAB ICON -->
+  <link rel="icon" href="https://pi-maths.com/wp-content/uploads/2021/04/Logo-PI-transparent_Favicon.png">
+</head>
+
+<body>
+    
+  <!-- POP OUT CONTAINER -->
+  <div class="pop-up">
+
+    <!-- SELECT AN OPTION BETWEEN BHASKARA AND PYTHAGOREAN THEOREM -->
+    <select name="math" id="math">
+      <option value="bhaskara" id="bhaskara">Bhaskara</option>
+      <option value="pythagoras" id="pythagoras">Pythagorean Theorem</option>
+    </select>
+
+    <!-- LIST WITH THE RESPECTIVE NUMBERS OF EACH MATH CALCULATIONS -->
+    <!-- FOR BHASKARA -->
+    <ul class="bhaskara-options">
+      <li>A:&nbsp;&nbsp;<input type="number" id="A" /> <br /></li>
+      <li>B:&nbsp;&nbsp;<input type="number" id="B" /> <br /></li>
+      <li>C:&nbsp;&nbsp;<input type="number" id="C" /> <br /></li>
+    </ul>
+
+
+    <!-- FOR PYTHAGORAS -->
+    <ul class="pythagoras-options">
+      <li>A:&nbsp;&nbsp;<input type="number" id="C1" /> <br /></li>
+      <li>B:&nbsp;&nbsp;<input type="number" id="C2" /> <br /></li>
+    </ul>
+
+    <!-- SUBMIT THE CHOICES FOR JAVASCRIPT TO THEM MAKE ALL THE CALCULATIONS AND SHOW YOU THE RESULTS -->
+    <button id="submit-btn">Show me the calculations</button>
+
+    <!-- COPYRIGHT (C) -->
+    <p class="copy">&copy; <script>document.write( new Date().getFullYear() )</script> <a href="https://github.com/fernandauriel" target="_blank">Fernanda Uriel</a>. <i>The calculations may not be 100% accurated</i></p>
+
+  </div>
+
+  <!-- OUTPUT RESULTS CONTAINER -->
+  <div class="out">
+    <!-- OUTPUT RESULTS -->
+    <p class="output"></p>
+
+    <!-- REDO/RELOAD BUTTON -->
+    <button onclick="reload()" id='redo-btn'>REDO</button>
+  </div>
+          
+</body>
+  <!-- CALL JAVASCRIPT -->
+  <script src="./script.js"></script>
+</html>
