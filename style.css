@@ -221,6 +221,7 @@ body {
 /* ----------------------------------------------------------------------------------------------- */
 /* SMALL SCREEENS CSS */
 
+/* TABLET */
 @media screen and ( max-width: 670px ){
     .pop-up{    
         transform: translate(-50%, -50%) scale(0.8);
@@ -246,6 +247,7 @@ body {
     }
 }
 
+/* COMMON SCREEENS */
 @media screen and ( max-width: 540px ){
     .pop-up{
         transform: translate(-50%, -50%) scale(0.6);
@@ -254,6 +256,7 @@ body {
     }
 }
 
+/* SMALLER SCREENS */
 @media screen and ( max-width: 390px ){
     .pop-up{
         width: 400px;
