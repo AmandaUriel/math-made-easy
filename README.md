@@ -1,5 +1,9 @@
 <h1 align="center" id="home">Math Made Easy</h1>
 
+<div align="center">
+<a href="https://fernandauriel.github.io/math-made-easy/"> Click here to go to the website: https://fernandauriel.github.io/math-made-easy/ </a>
+</div>
+
 <p>Ok, This code is a study project made by myself with my own logic and with my own pressure haha, no one really asked me to do it, it is more for <b>studies</b>, so of course it may include some small problems, like the X<sub>2</sub> results being the inverse like, the result has to be -1 but then it be 1 for some reason.</p>
 
 # Screenshots
