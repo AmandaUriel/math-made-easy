@@ -2,6 +2,13 @@
 
 <p>Ok, This code is a study project made by myself with my own logic and with my own pressure haha, no one really asked me to do it, it is more for <b>studies</b>, so of course it may include some small problems, like the X<sub>2</sub> results being the inverse like, the result has to be -1 but then it be 1 for some reason.</p>
 
+# Screenshots
+- Home screen
+<img src="https://i.imgur.com/1VoM3vX.png" alt="home screen">
+
+- Results screen
+<img src="https://i.imgur.com/kX6OQk6.png" alt="results screen">
+
 #
 
 <h1 id="about">How to use this site?</h1>
