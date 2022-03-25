@@ -4,16 +4,6 @@
 
 #
 
-<p><b>Summary</b></p>
-<ul>
-    <li><a href="#about">How to <i>use</i> the site</a></li>
-    <li><a href="#html">About the code inside <i>index.html</i></a></li>
-    <li><a href="#css">About the code inside <i>style.css</i></a></li>
-    <li><a href="#js">About the code inside <i>script.js</i></a></li>
-</ul>
-
-#
-
 <h1 id="about">How to use this site?</h1>
 <p>
   Easy, When you enter the site you'll have an option write "bhaskara", if you wish to procee with bhaskara calculations, keep reading, if you wish to proceed with pythagorea theorem, <a href="#pythagoras">click here</a>.<br><br>
@@ -35,23 +25,10 @@
 <p align="center"><a href="#home">Go back <b>TOP</b></a></p>
 
 #
-<h1 id="css">style.css</h1>
-<p>
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.
-</p>
-<p align="center"><a href="#home">Go back <b>TOP</b></a></p>
 
-#
-<h1 id="js">script.js</h1>
-<p>
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam inventore, quaerat enim qui vel et quod maiores quidem possimus eius laudantium sint in amet accusamus aut saepe dolorum modi natus.
-</p>
-<p align="center"><a href="#home">Go back <b>TOP</b></a></p>
-
-#
 <div align="center">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen" width=120>
     <p>Chek it out more about this License <a href="https://github.com/fernandauriel/math-made-easy/blob/main/LICENSE">HERE</a>
      <br>
-     It really doesn't matter so much but basically, you can do anything with this code since you gave me credits, thankya!!</p>
+     It really doesn't matter so much but basically, you can do anything with this code since you give me credits, thankya!!</p>
 </div>
